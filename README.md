@@ -1,2 +1,2 @@
 # Meu primeiro repositorio hello-world
-meu primeiro desafio Github da dio
+meu primeiro desafio GitHub da Dio
